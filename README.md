@@ -1,4 +1,4 @@
-# logo-banner-animation
+## logo-banner-animation
 
 animated logo banner with adobe after effects and the bodymovin plugin
 
